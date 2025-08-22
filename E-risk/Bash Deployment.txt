@@ -1,0 +1,1 @@
+az functionapp deployment source config-zip --resource-group Dev1 --name Erisk-sync-python --src functionapp.zip

@@ -1,0 +1,5 @@
+host.json
+requirements.txt
+EriskSyncFunction/
+    ├── __init__.py
+    └── function.json
