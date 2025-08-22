@@ -43,7 +43,7 @@ export_bacpac(
 # Backup second database (new one you want to add)
 export_bacpac(
     server="4.221.229.40",
-    database="YourNewDatabaseName",  # <-- Replace this with your actual database name
+    database="ndmprodb",  # <-- Replace this with your actual database name
     username="ndmvmuserpro",
     password="ndm@virual@987#"
 )
